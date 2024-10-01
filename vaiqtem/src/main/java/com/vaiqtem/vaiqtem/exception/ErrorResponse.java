@@ -1,4 +1,4 @@
-package com.vaiqtem.vaiqtem.Exception;
+package com.vaiqtem.vaiqtem.exception;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

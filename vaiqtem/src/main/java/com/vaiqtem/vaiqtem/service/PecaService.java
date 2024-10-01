@@ -1,6 +1,6 @@
 package com.vaiqtem.vaiqtem.service;
 
-import com.vaiqtem.vaiqtem.Exception.ConsignadoNotFoundException;
+import com.vaiqtem.vaiqtem.exception.ConsignadoNotFoundException;
 import com.vaiqtem.vaiqtem.domain.entity.Consignado;
 import com.vaiqtem.vaiqtem.domain.entity.Peca;
 import com.vaiqtem.vaiqtem.repository.ConsignadoRepository;
